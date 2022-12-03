@@ -12,5 +12,5 @@ você clicará em "Calcular" e o site mostrará:<br>
 - A quantidade de Garrafas de Bebidas(Em litros)
 
 
-Lembrando que, O JavaScript programou para que no cálculo das cervejas fossem desconsiderados<br>
+Lembrando que, O JavaScript programou para que no cálculo das cervejas fossem desconsideradas<br>
 as crianças
